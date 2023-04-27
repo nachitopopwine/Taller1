@@ -1,0 +1,3 @@
+Pablo, 2456,mejora de ia,32
+Fernando, 3000,programador,38
+Bruno, 4000,ia master,40
